@@ -17,4 +17,4 @@ Este proyecto demuestra la implementación de un sistema de gestión de base de 
 1. Abrir MySQL Workbench.
 2. Ejecutar `crear_tablas.sql` para crear la base de datos y tablas.
 3. Ejecutar los scripts de DML para poblar las tablas.
-4. Ejecutar las consultas en el archivo `consultas_basicas.sql` y `consultas_complejas.sql` según se necesite.
+4. Ejecutar las consultas en el archivo `consultas.sql` según se necesite.
